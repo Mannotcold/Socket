@@ -1,0 +1,30 @@
+D:\MangMayTinh\Project1\bin\Debug\Project1.exe.config
+D:\MangMayTinh\Project1\bin\Debug\Project1.exe
+D:\MangMayTinh\Project1\bin\Debug\Project1.pdb
+D:\MangMayTinh\Project1\obj\Debug\Sever.csprojAssemblyReference.cache
+D:\MangMayTinh\Project1\obj\Debug\Project1.Form1.resources
+D:\MangMayTinh\Project1\obj\Debug\Project1.Properties.Resources.resources
+D:\MangMayTinh\Project1\obj\Debug\Sever.csproj.GenerateResource.cache
+D:\MangMayTinh\Project1\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+D:\MangMayTinh\Project1\obj\Debug\Project1.exe
+D:\MangMayTinh\Project1\obj\Debug\Project1.pdb
+D:\MangMayTinh\TCPServer\bin\Debug\Project1.exe.config
+D:\MangMayTinh\TCPServer\bin\Debug\Project1.exe
+D:\MangMayTinh\TCPServer\bin\Debug\Project1.pdb
+D:\MangMayTinh\TCPServer\obj\Debug\Sever.csprojAssemblyReference.cache
+D:\MangMayTinh\TCPServer\obj\Debug\Project1.Form1.resources
+D:\MangMayTinh\TCPServer\obj\Debug\Project1.Properties.Resources.resources
+D:\MangMayTinh\TCPServer\obj\Debug\Sever.csproj.GenerateResource.cache
+D:\MangMayTinh\TCPServer\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+D:\MangMayTinh\TCPServer\obj\Debug\Project1.exe
+D:\MangMayTinh\TCPServer\obj\Debug\Project1.pdb
+D:\MangMayTinh\New folder\TCPServer\bin\Debug\Project1.exe.config
+D:\MangMayTinh\New folder\TCPServer\bin\Debug\Project1.exe
+D:\MangMayTinh\New folder\TCPServer\bin\Debug\Project1.pdb
+D:\MangMayTinh\New folder\TCPServer\obj\Debug\Sever.csprojAssemblyReference.cache
+D:\MangMayTinh\New folder\TCPServer\obj\Debug\Project1.Form1.resources
+D:\MangMayTinh\New folder\TCPServer\obj\Debug\Project1.Properties.Resources.resources
+D:\MangMayTinh\New folder\TCPServer\obj\Debug\Sever.csproj.GenerateResource.cache
+D:\MangMayTinh\New folder\TCPServer\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+D:\MangMayTinh\New folder\TCPServer\obj\Debug\Project1.exe
+D:\MangMayTinh\New folder\TCPServer\obj\Debug\Project1.pdb
